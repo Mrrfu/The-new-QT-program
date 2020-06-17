@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Image/1574995889973.jpg</file>
+        <file>Image/1575008192141.jpg</file>
+        <file>Image/1575271832099.jpg</file>
+        <file>Image/1583474777702.jpg</file>
+    </qresource>
+    <qresource prefix="/new/prefix1">
+        <file>Image/IMG_0827.JPG</file>
+        <file>Image/IMG_0828.JPG</file>
+        <file>Image/IMG_0830(20200531-224628).JPG</file>
+        <file>Image/Windows Background.wav</file>
+    </qresource>
+</RCC>
