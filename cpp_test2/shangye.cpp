@@ -183,7 +183,7 @@ void shangye::on_pushButton_clicked()
 {
   int shoufu1,lixi1,yuegong11,huankuan1,yueshu1,dijian1;
    int daikuanze;//贷款总额
-   if(panduan==0)
+   if(panduan==0)//如果无输入或者没有选择还款方式，进行警告
    {
        QSound::play("C:/Windows/Media/Windows Background.wav");
        b=new tixing;
