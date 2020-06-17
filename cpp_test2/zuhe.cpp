@@ -57,7 +57,7 @@ zuhe::~zuhe()
 
 void zuhe::on_btn_2_clicked()
 {
-    QSound::play("C:/Windows/Media/Windows Background.wav");//播放声音
+    QSound::play("C:/Windows/Media/Windows Background.wav");//windows系统下播放声音
   s=new zuheclear(this);
   s->setModal(true);
   s->show();
